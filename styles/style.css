@@ -160,7 +160,7 @@ footer {
 }
 .socials a {
   display: inline-block;
-  cursor: url("images/cursor.png"), default;
+  cursor: url("../images/cursor.png"), pointer;
 }
 .socials a:nth-child(-n + 2) {
   margin-right: 16px;
