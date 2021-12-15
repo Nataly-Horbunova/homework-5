@@ -160,8 +160,8 @@ footer {
 }
 .socials a {
   display: inline-block;
-  fill: #d52047;
-  }
+  cursor: url("/images/cursor.png"), default;
+}
 .socials a:nth-child(-n + 2) {
   margin-right: 16px;
 }
